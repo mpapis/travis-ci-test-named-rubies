@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-  - 2.1.1-clang
-  - ruby-2.1.1-clang
+ - 2.1.1-clang
+ - ruby-2.1.1-clang
 os: [linux, osx]
 osx_image: mavericks
 script: ruby --version
